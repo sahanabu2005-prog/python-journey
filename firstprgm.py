@@ -1,0 +1,5 @@
+name=input("what is your name?")
+age=input("how old are you")
+print("hello",name)
+print("your age is",age)
+print("you will acheive 30 lpa")
