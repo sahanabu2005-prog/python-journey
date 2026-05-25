@@ -7,3 +7,10 @@ elif marks>=70:
  print("grade C -work hard")
 else:
  print("grade F -better luck nxt time" ) 
+
+
+age=int(input("enter your age"))
+if age>=18:
+ print("you are able to vote")
+else:
+ print("you can't vote") 
